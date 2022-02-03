@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShardulDS
-- 👀 I’m interested in ... game dev
-- 🌱 I’m currently learning ... C++
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... Nothing yet
 - 📫 How to reach me ... No
 
