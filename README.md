@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ShardulDS
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... Nothing yet
-- 📫 How to reach me ... No
+- 👋 Hi, I’m Shardul Sajnekar
+- 📫 How to reach me ... ssajnekar@gmail.com
 
 <!---
 ShardulDS/ShardulDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
