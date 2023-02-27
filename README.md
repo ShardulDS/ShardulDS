@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shardul Sajnekar
-- 📫 How to reach me ... ssajnekar@gmail.com
+- 📫 How to reach me ... email
 
 <!---
 ShardulDS/ShardulDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
